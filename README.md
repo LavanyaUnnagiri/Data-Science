@@ -5,4 +5,4 @@ This repo is created to upload what I learn in data science using python interns
 
 1.[Helloworld](Helloword.ipynb)
 
-2.[ConditionalStatements](ConditionalStatements)
+2.[Conditionalstatements](Conditionalstatements)
