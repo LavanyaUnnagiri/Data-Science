@@ -14,3 +14,5 @@ This repo is created to upload what I learn in data science using python interns
 5.[File-and-File-Operations-in-Python.ipynb](File-and-File-Operations-in-Python.ipynb)
 
 6.[Lists_and_Tuples_in_Python.ipynb](Lists_and_Tuples_in_Python.ipynb)
+
+7.[Sets_and_Functions_in_Python.ipynb](Sets_and_Functions_in_Python.ipynb)
