@@ -20,3 +20,7 @@ This repo is created to upload what I learn in data science using python interns
 8.[Functions_Continution.ipynb](Functons_Continution.ipynb)
 
 9.[Modules_and_Packages_in_Python.ipynb](Modules_and_Packages_in_Python.ipynb)
+
+10.[Regular_Expressions_in_Python.ipynb](Regular_Expressions_in_Python.ipynb)
+
+
