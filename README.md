@@ -5,24 +5,26 @@ This repo is created to upload what I learn in data science using python interns
 
 1.[Helloworld.ipynb](Helloword.ipynb)
 
-2.[Conditionalstatements.ipynb](Conditionalstatements.ipynb)
+2.[PythonBasics.ipynb](PythonBasics.ipynb)
 
-3.[Strings-in-Python.ipynb](Strings-in-Python.ipynb)
+3.[Conditionalstatements.ipynb](Conditionalstatements.ipynb)
 
-4.[Dictionary-and-its-methods.ipynb](Dictionay_and_its_methods)
+4.[Strings-in-Python.ipynb](Strings-in-Python.ipynb)
 
-5.[File-and-File-Operations-in-Python.ipynb](File-and-File-Operations-in-Python.ipynb)
+5.[Dictionary-and-its-methods.ipynb](Dictionay_and_its_methods)
 
-6.[Lists_and_Tuples_in_Python.ipynb](Lists_and_Tuples_in_Python.ipynb)
+6.[File-and-File-Operations-in-Python.ipynb](File-and-File-Operations-in-Python.ipynb)
 
-7.[Sets_and_Functions_in_Python.ipynb](Sets_and_Functions_in_Python.ipynb)
+7.[Lists_and_Tuples_in_Python.ipynb](Lists_and_Tuples_in_Python.ipynb)
 
-8.[Functions_Continution.ipynb](Functons_Continution.ipynb)
+8.[Sets_and_Functions_in_Python.ipynb](Sets_and_Functions_in_Python.ipynb)
 
-9.[Modules_and_Packages_in_Python.ipynb](Modules_and_Packages_in_Python.ipynb)
+9.[Functions_Continution.ipynb](Functons_Continution.ipynb)
 
-10.[Regular_Expressions_in_Python.ipynb](Regular_Expressions_in_Python.ipynb)
+10.[Modules_and_Packages_in_Python.ipynb](Modules_and_Packages_in_Python.ipynb)
 
-11.[Object_Oriented_Programming.ipynb](Object_Oriented_Programming.ipynb)
+11.[Regular_Expressions_in_Python.ipynb](Regular_Expressions_in_Python.ipynb)
+
+12.[Object_Oriented_Programming.ipynb](Object_Oriented_Programming.ipynb)
 
 
