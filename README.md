@@ -27,4 +27,6 @@ This repo is created to upload what I learn in data science using python interns
 
 12.[Object_Oriented_Programming.ipynb](Object_Oriented_Programming.ipynb)
 
+13.[Object_Oriented_Programming_in_Python_Continution.ipynb](Object_Oriented_Programming_in_Python_Continution.ipynb)
+
 
