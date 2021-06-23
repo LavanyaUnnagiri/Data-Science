@@ -31,3 +31,7 @@ This repo is created to upload what I learn in data science using python interns
 
 14.[Data_Manipulation_using_NumPy.ipynb](Data_Manipulation_using_NumPy.ipynb)
 
+15.[Data_Maniipulation_using_NumPy_Continution.ipynb](Data_Manipulation_using_NumPy_Continution.ipynb)
+
+
+
