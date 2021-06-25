@@ -33,6 +33,8 @@ This repo is created to upload what I learn in data science using python interns
 
 15.[Data_Maniipulation_using_NumPy_Continution.ipynb](Data_Manipulation_using_NumPy_Continution.ipynb)
 
+16.[Pandas_Continution.ipynb](Pandas_Continution.ipynb)
+
 16.[Data_Analytics_using_Pandas.ipynb](Data_Analytics_using_Pandas.ipynb)
 
 
