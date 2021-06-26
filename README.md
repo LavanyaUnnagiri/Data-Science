@@ -37,5 +37,7 @@ This repo is created to upload what I learn in data science using python interns
 
 17.[Pandas_Continution.ipynb](Pandas_Continution.ipynb)
 
+18.[Data_Cleaning,Matplotlib.ipynb](Data_Cleaning,Matplotlib.ipynb)
+
 
 
