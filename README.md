@@ -41,5 +41,7 @@ This repo is created to upload what I learn in data science using python interns
 
 19.[Data_visualization_using_matplotlib.ipynb](Data_visualization_using_matplotlib.ipynb)
 
+20.[Matplotlib,DataPreprocessing.ipynb](Matplotlib,DataPreprocessing.ipynb)
+
 
 
