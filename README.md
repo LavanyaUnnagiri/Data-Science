@@ -47,5 +47,7 @@ This repo is created to upload what I learn in data science using python interns
 
 22.[Visualization.ipynb](Visualization.ipynb)
 
+23.[Seaborn_Plots.ipynb](Seaborn_Plots.ipynb)
+
 
 
