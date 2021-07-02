@@ -49,5 +49,7 @@ This repo is created to upload what I learn in data science using python interns
 
 23.[Seaborn_Plots.ipynb](Seaborn_Plots.ipynb)
 
+24.[Seaborn_Plots.ipynb](Seaborn_Plots.ipynb)
+
 
 
