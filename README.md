@@ -51,5 +51,7 @@ This repo is created to upload what I learn in data science using python interns
 
 24.[Seaborn_Plots.ipynb](Seaborn_Plots.ipynb)
 
+25.[Machine_learning_Introduction.ipynb](Machine_learning_Introduction.ipynb)
+
 
 
