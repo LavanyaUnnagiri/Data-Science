@@ -55,5 +55,7 @@ This repo is created to upload what I learn in data science using python interns
 
 26.[Simple_linear_regression_using_sklearn.ipynb](Simple_linear_regression_using_sklearn.ipynb)
 
+27.[multiple_and_polynomial_regression.ipynb](multiple_and_polynomial_regression.ipynb)
+
 
 
