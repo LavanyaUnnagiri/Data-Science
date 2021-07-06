@@ -61,5 +61,7 @@ This repo is created to upload what I learn in data science using python interns
 
 29.[Regularisation(Ridge_and_Lasso).ipynb](Regularisation(Ridge_and_Lasso).ipynb)
 
+30.[ElasticNet_Regression.ipynb](ElasticNet_Regression.ipynb)
+
 
 
