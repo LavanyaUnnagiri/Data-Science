@@ -63,5 +63,7 @@ This repo is created to upload what I learn in data science using python interns
 
 30.[ElasticNet_Regression.ipynb](ElasticNet_Regression.ipynb)
 
+31.[Logistic_regression.ipynb](Logistic_regression.ipynb)
+
 
 
