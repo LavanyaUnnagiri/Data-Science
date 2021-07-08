@@ -67,5 +67,7 @@ This repo is created to upload what I learn in data science using python interns
 
 32.[KNN_algorithm.ipynb](KNN_algorithm.ipynb)
 
+33.[distance.png](distance.png)
+
 
 
