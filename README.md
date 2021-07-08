@@ -65,5 +65,7 @@ This repo is created to upload what I learn in data science using python interns
 
 31.[Logistic_regression.ipynb](Logistic_regression.ipynb)
 
+32.[KNN_algorithm.ipynb](KNN_algorithm.ipynb)
+
 
 
