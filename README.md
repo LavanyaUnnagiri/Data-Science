@@ -69,5 +69,7 @@ This repo is created to upload what I learn in data science using python interns
 
 33.[distance.png](distance.png)
 
+34.[Decision_tree.ipynb](Decision_tree.ipynb)
+
 
 
