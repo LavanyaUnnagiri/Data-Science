@@ -71,5 +71,7 @@ This repo is created to upload what I learn in data science using python interns
 
 34.[Decision_tree.ipynb](Decision_tree.ipynb)
 
+35.[giniandentropy.png](giniandentropy.png)
+
 
 
