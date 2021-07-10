@@ -73,5 +73,7 @@ This repo is created to upload what I learn in data science using python interns
 
 35.[giniandentropy.png](giniandentropy.png)
 
+36.[support_vector_machine.ipynb](support_vector_machine.ipynb)
+
 
 
