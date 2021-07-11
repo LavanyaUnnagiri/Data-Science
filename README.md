@@ -75,5 +75,7 @@ This repo is created to upload what I learn in data science using python interns
 
 36.[support_vector_machine.ipynb](support_vector_machine.ipynb)
 
+37.[Naive-Bayes-Classifier.ipynb](Naive-Bayes-Classifier.ipynb)
+
 
 
